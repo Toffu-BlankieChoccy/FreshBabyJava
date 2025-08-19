@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionUtilities/CollectionUtilities.iml" filepath="$PROJECT_DIR$/CollectionUtilities/CollectionUtilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deque/Deque.iml" filepath="$PROJECT_DIR$/Deque/Deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratingCollection/IteratingCollection.iml" filepath="$PROJECT_DIR$/IteratingCollection/IteratingCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratingCollection/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/IteratingCollection/LambdaExpressions/LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning Java.iml" filepath="$PROJECT_DIR$/Learning Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListInterface/ListInterface.iml" filepath="$PROJECT_DIR$/ListInterface/ListInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratingCollection/StreamCollections/StreamCollections.iml" filepath="$PROJECT_DIR$/IteratingCollection/StreamCollections/StreamCollections.iml" />
+    </modules>
+  </component>
+</project>
